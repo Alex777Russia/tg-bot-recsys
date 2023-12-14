@@ -165,3 +165,8 @@ cython_debug/
 
 # Data (it's too many)
 addresses/merged_data.csv
+/visualization/
+test_bert_1.csv
+
+# Doesn`t end
+dashboard.py
